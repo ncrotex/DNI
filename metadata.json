@@ -1,0 +1,6 @@
+{
+  "name": "Double N International",
+  "description": "더블엔인터내셔널 (Double N International) — Crafting Trust, Wearing Innovation. 글로벌 가먼트 OEM 및 기능성 텍스타일 전문 기업 공식 웹사이트",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
